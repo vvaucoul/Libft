@@ -8,7 +8,7 @@ These will be reused in future projects.<br>
 
 - Clone Repository
 ```bash
-git clone https://vvaucoul/Libft && cd Libft
+git clone https://github.com/vvaucoul/Libft && cd Libft
 ```
 
 - Compilation
