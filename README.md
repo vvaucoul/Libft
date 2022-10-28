@@ -1,7 +1,7 @@
 # Libft
 
 First project at School 42.<br>
-Implementation of many functions of the C standard library.<br>
+Implementation of many functions from the standard C library.<br>
 These will be reused in future projects.<br>
 
 ## Usage
