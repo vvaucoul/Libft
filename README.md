@@ -16,7 +16,7 @@ git clone https://vvaucoul/Libft && cd Libft
 make
 ```
 
-### Functions
+## Functions
 
 > Memory
 
